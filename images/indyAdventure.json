@@ -1,0 +1,52 @@
+{"frames": {
+
+"blob.png":
+{
+	"frame": {"x":28,"y":0,"w":32,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":24},
+	"sourceSize": {"w":32,"h":24}
+},
+"door.png":
+{
+	"frame": {"x":60,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"dungeon.png":
+{
+	"frame": {"x":0,"y":52,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+},
+"explorerFin.png":
+{
+	"frame": {"x":92,"y":0,"w":36,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":52},
+	"sourceSize": {"w":36,"h":52}
+},
+"treasure.png":
+{
+	"frame": {"x":0,"y":0,"w":28,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":24},
+	"sourceSize": {"w":28,"h":24}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "indyAdventure.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":564},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:abcdef1bb7a97891a786194e63925f30:53d3925d198a74e5064fa71b7f04b77d:f38058207b88e013c8f40e0ab0e1c3bc$"
+}
+}

@@ -1,0 +1,52 @@
+{"frames": {
+
+"explorerFin.png":
+{
+	"frame": {"x":62,"y":0,"w":36,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":52},
+	"sourceSize": {"w":36,"h":52}
+},
+"explorerShe.png":
+{
+	"frame": {"x":28,"y":0,"w":34,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":52},
+	"sourceSize": {"w":34,"h":52}
+},
+"sceneTwo.png":
+{
+	"frame": {"x":0,"y":90,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+},
+"treasure.png":
+{
+	"frame": {"x":0,"y":0,"w":28,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":24},
+	"sourceSize": {"w":28,"h":24}
+},
+"troll_1.png":
+{
+	"frame": {"x":98,"y":0,"w":72,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":90},
+	"sourceSize": {"w":72,"h":90}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sceneTwo.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":602},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:488bb208de8179b33a62de91e3436a95:c55c44782cb0fb858922c3608d862166:4318947c418e58023d998add6ea1ac70$"
+}
+}

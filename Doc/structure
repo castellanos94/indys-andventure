@@ -1,0 +1,19 @@
+//Setup Pixi and load the texture atlas files - call the `setup`
+//function when they've loaded
+
+function setup() {
+  //Initialize the game sprites, set the game `state` to `play`
+  //and start the 'gameLoop'
+}
+
+function gameLoop() {
+  //Runs the current game `state` in a loop and renders the sprites
+}
+
+function play() {
+  //All the game logic goes here
+}
+
+function end() {
+  //All the code that should run at the end of the game
+}

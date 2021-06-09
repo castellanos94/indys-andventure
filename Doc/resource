@@ -1,0 +1,36 @@
+Pixi.js v4 — A 2D JavaScript Renderer
+--- http://www.pixijs.com/
+--- https://github.com/pixijs/pixi.js
+------------------------------------------
+JavaScript(JS) ECMAScript 201
+------------------------------------------
+TexturePacker (texture atlas)
+Free version of Texture Packer, set Algorithm to Basic, set Trim mode to None, 
+set Size constraints to Any size and slide the PNG Opt Level all the way to the 
+left to 0, and Sprites Extrude 0. These are the basic settings that will allow 
+the free version ofTexture Packer to create your files without any warnings or 
+errors.
+
+--- All the images are by Lanea Zimmerman
+--- http://opengameart.org/users/sharm 
+------------------------------------------
+Keyboard Keys and Key Code Values 
+--- http://help.adobe.com/en_US/AS2LCR/Flash_10.0/help.html?content=00000520.html
+------------------------------------------
+Rex van der Spuy. (2015). Learn Pixi.js. New York: Apress. ISBN 9781484210949.
+--- https://github.com/kittykatattack/learningPixi
+Bump - A 2D Collision library for Pixi
+--- https://github.com/kittykatattack/bump
+Sounds
+--- https://github.com/kittykatattack/sound
+Charm - Tweening for Pixi
+--- https://github.com/kittykatattack/charm
+------------------------------------------
+Music
+http://opengameart.org/content/the-great-overworld
+------------------------------------------
+sprites rpg
+--- http://www.geocities.jp/kurororo4/looseleaf/
+------------------------------------------
+Stage
+--- http://piq.codeus.net/draw
